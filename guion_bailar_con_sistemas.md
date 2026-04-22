@@ -6,7 +6,7 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Aproximadamente 2 horas.
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/Te_bailar_sistemas_gesteco_ccaa/refs/tags/2024_2025/imagenes/portada.png)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/Te_bailar_sistemas_gesteco_ccaa/refs/tags/2025_2026/imagenes/portada.png)
 
 [TOC]
 
@@ -20,12 +20,12 @@ La finalidad última de esta sesión es conectar varios elementos importantes qu
 
 + Por un lado los conocimientos teóricos de sistemas complejos que hemos visto [aquí](https://rawcdn.githack.com/aprendiendo-cosas/Te_sistemas_complejos_gesteco_ccaa/2025_2026/guion_sistemas_complejos_gesteco.html). Entender bien qué son los sistemas complejos y cómo se organizan es fundamental para entender:
 + La manera en la que formulamos los problemas de gestión socioecosistémica como [problemas complejos](https://rawcdn.githack.com/aprendiendo-cosas/Te_conflictos_socioecologicos_gesteco_ccaa/2025_2026/guion_conflictos.html) (o retorcidos). Con esta mirada sistémica podemos desarrollar 
-+ un [método](https://aprendiendo-cosas.github.io/T_retos_socioecologicos_gesteco_ccaa/guion_tarea_reto_socioecologico.html) nos permite navegar por los retos complejos que estamos estudiando y abordarlos por fases. Sobre este intento de sistematizar el abordaje de los retos complejos, estudiamos ahora
++ un [método](https://rawcdn.githack.com/aprendiendo-cosas/T_retos_socioecologicos_gesteco_ccaa/2025_2026/guion_tarea_reto_socioecologico.html) nos permite navegar por los retos complejos que estamos estudiando y abordarlos por fases. Sobre este intento de sistematizar el abordaje de los retos complejos, estudiamos ahora
 + cómo Donella Meadows, la madre de los sistemas complejos, desarrolla la idea de "bailar con sistemas". En esta analogía toma forma la filosofía sistémica en la que los problemas no se resuelven, sino que se abordan. 
 
-En este guión desarrollamos esta idea de Meadows usando como ejemplo las experiencias que hemos vivido en nuestra [salida al P. N. de Cardeña y Montoro](https://aprendiendo-cosas.github.io/C_cardenia_gesteco/guion_salida_gesteco.html).
+En este guión desarrollamos esta idea de Meadows usando como ejemplo las experiencias que hemos vivido en nuestra [salida al P. N. de Cardeña y Montoro](https://rawcdn.githack.com/aprendiendo-cosas/C_cardenia_gesteco/2025_2026/guion_salida_gesteco.html).
 
-Además, esta sesión es un resumen de [este](https://raw.githubusercontent.com/aprendiendo-cosas/Te_bailar_sistemas_gesteco_ccaa/main/biblio/bailar_con_sistemas.pdf) artículo que hemos mencionado en muchas ocasiones en clase. A su vez, este artículo es un resumen del libro titulado "[Pensar en sistemas](https://raw.githubusercontent.com/aprendiendo-cosas/Te_bailar_sistemas_gesteco_ccaa/main/biblio/sistemas.zip)" de la misma autora. Para acompañar al siguiente texto puedes usar [esta](https://raw.githubusercontent.com/aprendiendo-cosas/Te_bailar_sistemas_gesteco_ccaa/main/presentacion/bailar_con_sistemas.pptx) presentación que fue la que usamos en clase. 
+Además, esta sesión es un resumen de [este](https://raw.githubusercontent.com/aprendiendo-cosas/Te_bailar_sistemas_gesteco_ccaa/2025_2026/biblio/bailar_con_sistemas.pdf) artículo que hemos mencionado en muchas ocasiones en clase. A su vez, este artículo es un resumen del libro titulado "[Pensar en sistemas](https://raw.githubusercontent.com/aprendiendo-cosas/Te_bailar_sistemas_gesteco_ccaa/2025_2026/biblio/sistemas.zip)" de la misma autora. Para acompañar al siguiente texto puedes usar [esta](https://raw.githubusercontent.com/aprendiendo-cosas/Te_bailar_sistemas_gesteco_ccaa/2025_2026/presentacion/bailar_con_sistemas.pptx) presentación que fue la que usamos en clase. 
 
 La clase se organiza a una serie de consejos que nos da Meadows para bailar con los sistemas:
 
@@ -273,7 +273,7 @@ Este escenario no elimina los conflictos ni garantiza un funcionamiento perfecto
 
 ****
 
-[Aquí](https://github.com/aprendiendo-cosas/Te_bailar_sistemas_gesteco_ccaa/archive/refs/tags/2024_2025.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
+[Aquí](https://github.com/aprendiendo-cosas/Te_bailar_sistemas_gesteco_ccaa/archive/refs/tags/2025_2026.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
 
 ****
 Haz click [aquí](https://github.com/aprendiendo-cosas/Te_bailar_sistemas_gesteco_ccaa/releases) para ver cómo ha cambiado este guión en los distintos cursos académicos.
