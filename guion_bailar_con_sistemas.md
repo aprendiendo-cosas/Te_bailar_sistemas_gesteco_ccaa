@@ -1,4 +1,4 @@
-#  Cómo abordar problemas complejos. Bailar con sistemas
+#  Bailar con sistemas: la mirada de D. Meadows sobre problemas complejos
 
 > + **_Tipo de material_**: <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;"> Teoría</span>
 > + **_Versión_**: 2025-2026
@@ -6,7 +6,7 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Aproximadamente 2 horas.
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/Te_bailar_sistemas_gesteco_ccaa/refs/tags/2025_2026/imagenes/portada.png)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/Te_bailar_sistemas_gesteco_ccaa/2025_2026/imagenes/portada.png)
 
 [TOC]
 
@@ -268,6 +268,18 @@ En este diseño alternativo, los actores locales (ganaderos, propietarios forest
 La diversificación de objetivos (conservación de biodiversidad, reducción de riesgo de incendios, provisión de servicios recreativos en distintas estaciones del año, generación de empleo local, producción sostenible de energía y biomasa) permitiría construir un sistema menos vulnerable a perturbaciones externas y mejor adaptado a las dinámicas ecológicas y sociales del entorno.
 
 Este escenario no elimina los conflictos ni garantiza un funcionamiento perfecto del sistema, pero encarna los principios de «bailar con sistemas» propuestos por Meadows: conocimiento profundo del sistema, reconocimiento de la sabiduría local, explicitación y negociación de modelos mentales, actitud de aprendizaje, transparencia informativa, búsqueda del bien del conjunto y ampliación de los horizontes temporales, cognitivos y afectivos.
+
+---
+
+
+
+
+
+La siguiente imagen ha sido creada con una IA (Notebook LM) a partir del contenido de este guión
+
+![resumen](https://raw.githubusercontent.com/aprendiendo-cosas/Te_bailar_sistemas_gesteco_ccaa/2025_2026/imagenes/resumen.png)
+
+
 
 
 
